@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Washington779
+- 👋 Hi, I’m John Washington
 - 👀 I’m interested in data analysis using SPSS, STATA, R, and Visualization tools such as Excel, PowerBi, and Tableau
 - 🌱 I’m currently learning how to use machine learning and python in data analysis
 - 💞️ I’m looking to collaborate on in the data science field
